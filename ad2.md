@@ -11,7 +11,7 @@ A continuación, se añade un párrafo más que señala el crecimiento de casos 
 
 Tras esto intervienen un par de expertos en la materia, el vicepresidente de atención primaria de la AEP **Guillermo Martín Carballo** y la doctora **Ángela Domínguez**. El último gráfico rompe con el monótono texto, en forma de infografía. Sobre un fondo con el color de marca del medio, resume una serie de cuestiones relacionadas con el VRS de la bronquiolitis. El resto del documento trabaja principalmente el periodismo escrito, aunque bien es cierto que se añade una entrevista en formato de vídeo integrado en la web. 
 
-## Buenas prácticas
+### Buenas prácticas
 
 Tal y como se contempla en el material adicional propuesto en la plataforma de clase, Tufte instauró en el año 1983 cinco claves para alcanzar la excelencia en el campo de diseño gráfico. Este documento pone en práctica las siguientes claves:
 
