@@ -1,6 +1,6 @@
 # La “tripledemia”, una nueva amenaza
 
-![Un científico analizando el contenido de un vial](https://www.pexels.com/es-es/foto/persona-sosteniendo-matraz-de-laboratorio-2280571/)
+![Un científico analizando el contenido de un vial](https://pixabay.com/images/id-5169689/)
 
 El medio de comunicación digital español **Newtral** publicó el pasado martes 22 de noviembre un artículo titulado [“‘Tripledemia’ de toses y fiebres: bronquiolitis y gripes se adelantan con una covid en ligero ascenso”](https://www.newtral.es/explosion-toses-fiebres-bronquiolitis-gripes-adelantan-covid-ascenso/20221122/). El autor del reportaje es **Mario Viciosa**, conocido por su labor de divulgación científica, que en esta ocasión trata el aumento de casos de infecciones respiratorias simultáneas. 
 
